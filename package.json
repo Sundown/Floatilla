@@ -1,0 +1,14 @@
+{
+  "version": "0.0.2",
+  "name": "floatilla",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.4",
+    "toml": "^3.0.0",
+    "twitter-api-v2": "^1.12.3"
+  }
+}
