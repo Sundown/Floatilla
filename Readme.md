@@ -18,8 +18,6 @@ accounts = ["account1", "account_2"]
 
 #### TODO:
 
-[ ] Sort by likes
-
-[ ] Exclued retweets/replies/quotes
-
-[ ] Fetch n
+-   [ ] Sort by likes
+-   [ ] Exclued retweets/replies/quotes
+-   [ ] Fetch n
